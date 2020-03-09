@@ -27,7 +27,7 @@ Finished the course «Java Programming Language» at the Institute of IT&Busines
 * worked with Maven;
 * DB (SQL), JDBC;
 * IDE: IntelliJ IDEA, VisualStudio 2017, Eclipse, WebStorm;
-* English level: pre-intermediate.
+* English level: pre-intermediate/intermediate.
 
 **ADDITIONAL INFORMATION**
 
