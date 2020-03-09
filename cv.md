@@ -3,10 +3,10 @@
 
 **PERSONAL INFORMATION**
 
-Date of birth: 04.02.1998; 
-Mobile phone: +375 (29) 874 54 47; +375 (44) 460 35 95;
-E-mail: 283fg56j98@gmail.com
-City: Minsk
+* Date of birth: 04.02.1998; 
+* Mobile phone: +375 (29) 874 54 47; +375 (44) 460 35 95;
+* E-mail: 283fg56j98@gmail.com
+* City: Minsk
 
 **EDUCATION**
 
@@ -17,17 +17,17 @@ Finished the course «Java Programming Language» at the Institute of IT&Busines
 
 **PROFESSIONAL SKILLS**
 
-* knowledge of OOP and basic design patterns; 
-* knowledge of Java SE/EE, Java Swing, JavaFX; 
-* basic knowledge of JS, Angular 6, HTML, CSS;
-* development experience on C/C++;
-* understanding of data structures;
-* IDEF0 and other UML diagrams;
-* worked with Git
-* worked with Maven;
-* DB (SQL), JDBC;
-* IDE: IntelliJ IDEA, VisualStudio 2017, Eclipse, WebStorm;
-* English level: pre-intermediate/intermediate.
+1. knowledge of OOP and basic design patterns; 
+2. knowledge of Java SE/EE, Java Swing, JavaFX; 
+3. basic knowledge of JS, Angular 6, HTML, CSS;
+4. development experience on C/C++;
+5. understanding of data structures;
+6. IDEF0 and other UML diagrams;
+7. worked with Git
+8. worked with Maven;
+9. DB (SQL), JDBC;
+10. IDE: IntelliJ IDEA, VisualStudio 2017, Eclipse, WebStorm;
+11. English level: pre-intermediate/intermediate.
 
 **ADDITIONAL INFORMATION**
 
