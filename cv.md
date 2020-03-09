@@ -1,5 +1,5 @@
-#**Protasenya Aleksey**
-##**Java developer**
+# **Protasenya Aleksey**
+## **Java developer**
 
 **PERSONAL INFORMATION**
 
