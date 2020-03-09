@@ -4,7 +4,7 @@
 **PERSONAL INFORMATION**
 
 Date of birth: 04.02.1998; 
-Mobile phone: +375 (29) 874 54 47;
+Mobile phone: +375 (29) 874 54 47; +375 (44) 460 35 95;
 E-mail: 283fg56j98@gmail.com
 City: Minsk
 
