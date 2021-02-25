@@ -1,0 +1,48 @@
+body {
+    text-align: center;
+}
+
+.border {
+    border: solid;
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.underline {
+    text-decoration: underline;
+}
+
+.information {
+    text-align: left;
+    font-size: 18px;
+    line-height: 0.5em;
+}
+
+.flexes {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+#position {
+    justify-content: space-evenly;
+}
+
+#photo {
+    width: 12rem;
+    height: 15rem;
+}
+
+#education {
+    align-content: center;
+}
+
+#centralised-flex {
+    justify-content: center;
+}
+
+.list {
+    text-align: left;
+    font-size: 18px;
+}
