@@ -26,23 +26,32 @@ body {
 }
 
 #position {
-    justify-content: space-evenly;
+    justify-content: space-between;
+    padding: 0 5rem 0 1rem;
 }
 
 #photo {
-    width: 12rem;
+    width: 15rem;
     height: 15rem;
+    border-radius: 100%;
 }
 
 #education {
-    align-content: center;
+    align-content: left;
 }
 
 #centralised-flex {
-    justify-content: center;
+    justify-content: left;
+    padding-left: 1rem;
 }
 
 .list {
     text-align: left;
     font-size: 18px;
+    padding-left: 0px;
+    
+}
+
+ul {
+    padding-inline-start: 20px;
 }
