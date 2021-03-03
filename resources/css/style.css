@@ -2,11 +2,17 @@ body {
     text-align: center;
 }
 
+p{
+    margin: 0.3em;
+}
+
 .border {
-    border: solid;
-    width: 800px;
+    display: flex;
+    flex-direction: column;
     margin-left: auto;
     margin-right: auto;
+    width: 800px;
+    border: solid;
 }
 
 .underline {
@@ -16,7 +22,6 @@ body {
 .information {
     text-align: left;
     font-size: 18px;
-    line-height: 0.5em;
 }
 
 .flexes {
@@ -26,23 +31,52 @@ body {
 }
 
 #position {
-    justify-content: space-evenly;
+    justify-content: space-between;
+    padding: 0 5rem 0 1rem;
 }
 
 #photo {
-    width: 12rem;
-    height: 15rem;
+    width: 10rem;
+    height: auto;
+    border-radius: 100%;
 }
 
-#education {
-    align-content: center;
-}
-
-#centralised-flex {
-    justify-content: center;
+.centralised-flex {
+    justify-content: left;
+    padding-left: 1rem;
 }
 
 .list {
     text-align: left;
     font-size: 18px;
+    padding-left: 0px;
+}
+
+
+.line {
+    height: 4rem;
+}
+
+footer{
+    display: flex;
+    background-color: rgb(216, 216, 216);
+    align-items: center;
+    justify-content: space-between;
+    padding-right: 2rem;
+}
+
+footer img{
+    height: 1.5rem;
+    width: auto;
+    margin: 0 0.1rem;
+}
+
+#images{
+    display: flex;
+    justify-content: start;
+}
+
+.year{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1.2rem;
 }
